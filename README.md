@@ -1,6 +1,6 @@
 ### Hi I'am Tuan From To VN👋
 - 🔭 I’m currently working on darkweb
-- - 🌱 I’m currently learning THCS Luu Van Lang 
+- - 🌱 I’m currently learning THPT Chuyên Nguyễn Đình Chiểu
 <!--
 **Tuancoderdz/Tuancoderdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
